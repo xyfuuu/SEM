@@ -98,7 +98,7 @@ liac-arff==2.4.0
 lightgbm==2.3.1
 LimeSurvey-API==1.0
 llvmlite==0.34.0
-lxml==4.3.4
+lxml==4.6.3
 Markdown==3.0.1
 MarkupSafe==1.0
 matplotlib==3.0.1
